@@ -1,2 +1,2 @@
 # embedded-programming
-Embedded-programming with Arduino and Atmel microcontrollers. 
+Embedded-programming with Arduino and AVR microcontrollers. 
